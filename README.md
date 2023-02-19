@@ -1,4 +1,4 @@
-# g_map_polyline
+# Google Map Polyline
 
 A new Flutter project.
 
